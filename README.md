@@ -10,9 +10,11 @@
  
  
 # How can you use it:
- Just use the code in the repository in your python IDE or in ananconda and it will work perfectly. 
- Install the necessary libraries in your command path and it will work perfectly work in your local host PC. 
- We will definately improve on this and we have many more features that we want to add but we were unable to due to time constraints.
+ 1) Just use the code in the repository in your python IDE/google colab or in ananconda and it will work perfectly. 
+ 2) Install the necessary libraries in your command path and it will work perfectly work in your local host PC. 
+ 3) We will definately improve on this and we have many more features that we want to add but we were unable to due to time constraints.
+ 4) We were also able to deploy this in our website(local host) using flask and video capture from OpenCV but due to time, resource constraints, we were not able to implement.
+ 5) This is the building block of our much bigger and ambitious project, we will make it bigger and better.
  
  Hope this DL  models will bring a change in Edtech track in the world.
  
